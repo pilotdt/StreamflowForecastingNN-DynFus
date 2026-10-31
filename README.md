@@ -34,8 +34,10 @@ This is the repository with the LSTM Encoder-Decoder **dynamic feature fusion mo
 
 The `Data/` folder contains:
 
-- ERA5-Land data
-- River flow measurements from the DEFRA/NRFA APIs
+- ERA5-Land data [2]
+- River flow measurements from the DEFRA/NRFA APIs [1,3]
+
+The data is also archived in https://doi.org/10.5281/zenodo.23730179.
 
 ## Model development
 
@@ -90,3 +92,12 @@ python3 XAI/kernelshap_val_<type_of_plot>.py
 ```
 
 where `<type_of_plot>` is replaced by the plot type in the script name.
+
+## References
+
+[1] Environment Agency (2023). Hydrology Data API [dataset]. Department for Environment, Food & Rural Affairs. https://environment.data.gov.uk/hydrology/doc.
+
+[2] Muñoz Sabater, J. (2019). ERA5-Land hourly data from 1981 to present. Copernicus Climate Change Service (C3S) Climate Data Store. https://doi.org/10.24381/cds.e2161bac.
+
+[3] National River Flow Archive (NRFA), UK Centre for Ecology & Hydrology. https://nrfa.ceh.ac.uk/.
+
