@@ -10,10 +10,10 @@ This is the repository with the LSTM Encoder-Decoder **dynamic feature fusion mo
 │
 ├── Models/
 │   ├── XAI/
-│   ├── encdec_dyn1_fus_mul.py
-│   ├── encdec_dyn1_fus_un.py
-│   ├── encdec_dyn_fus_mul.py
-│   ├── encdec_dyn_fus_un.py
+│   ├── encdec_dyn1_fus_mul.py       #LSTM Encoder-Decoder with proposed fusion (multivariate)   
+│   ├── encdec_dyn1_fus_un.py        #LSTM Encoder-Decoder with proposed fusion (univariate)
+│   ├── encdec_dyn_fus_mul.py        #LSTM Encoder-Decoder with Attention-based fusion (multivariate)
+│   ├── encdec_dyn_fus_un.py         #LSTM Encoder-Decoder with Attention-based fusion (univariate)
 │   ├── bas_1dcnn.py
 │   ├── bas_rf_and_svr.py
 │   ├── requirements.txt
