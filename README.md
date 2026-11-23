@@ -97,7 +97,6 @@ where `<type_of_plot>` is replaced by the plot type in the script name.
 
 If you find our paper useful, please cite:
 
-**Paper:**
 ```bibtex
 @article{theo2026highflow,
    title     = {High-Flow Forecasting With a Deep Learning-Based Dynamic Feature Fusion Approach},
