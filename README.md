@@ -93,6 +93,35 @@ python3 XAI/kernelshap_val_<type_of_plot>.py
 
 where `<type_of_plot>` is replaced by the plot type in the script name.
 
+## Citation
+
+If you find our paper, code, or dataset useful, please cite:
+
+**Paper:**
+```bibtex
+@article{theo2026highflow,
+   title     = {High-Flow Forecasting With a Deep Learning-Based Dynamic Feature Fusion Approach},
+   author    = {Theodosiadou, Konstantina and Kjeldsen, Thomas Rodding and Barnes, Andrew Paul},
+   journal   = {Journal of Geophysical Research: Machine Learning and Computation},
+   volume    = {3},
+   number    = {6},
+   publisher = {AGU},
+   doi       = {10.1029/2026JH001288}
+}
+```
+
+**Dataset:**
+```bibtex
+@misc{theo2026dailyriver,
+  title     = {Daily river flow measurements and {ERA5-Land} climate data in the Severn river basin, {UK} (1985--2024)},
+  author    = {Theodosiadou, Konstantina and Kjeldsen, Thomas Rodding and Barnes, Andrew Paul},
+  publisher = {Zenodo},
+  year      = {2026},
+  type      = {dataset},
+  doi       = {10.5281/zenodo.23730179}
+}
+```
+
 ## References
 
 [1] Environment Agency (2023). Hydrology Data API [dataset]. Department for Environment, Food & Rural Affairs. https://environment.data.gov.uk/hydrology/doc.
