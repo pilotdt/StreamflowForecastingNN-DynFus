@@ -95,7 +95,7 @@ where `<type_of_plot>` is replaced by the plot type in the script name.
 
 ## Citation
 
-If you find our paper, code, or dataset useful, please cite:
+If you find our paper useful, please cite:
 
 **Paper:**
 ```bibtex
@@ -107,18 +107,6 @@ If you find our paper, code, or dataset useful, please cite:
    number    = {6},
    publisher = {AGU},
    doi       = {10.1029/2026JH001288}
-}
-```
-
-**Dataset:**
-```bibtex
-@misc{theo2026dailyriver,
-  title     = {Daily river flow measurements and {ERA5-Land} climate data in the Severn river basin, {UK} (1985--2024)},
-  author    = {Theodosiadou, Konstantina and Kjeldsen, Thomas Rodding and Barnes, Andrew Paul},
-  publisher = {Zenodo},
-  year      = {2026},
-  type      = {dataset},
-  doi       = {10.5281/zenodo.23730179}
 }
 ```
 
