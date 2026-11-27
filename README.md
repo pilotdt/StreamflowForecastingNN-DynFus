@@ -1,6 +1,6 @@
 # StreamflowForecastingNN-DynFus
 
-This is the repository with the LSTM Encoder-Decoder **dynamic feature fusion models** for high-flow forecasting using ERA5-Land climatic data and river flow measurement data.
+This is the repository with the LSTM Encoder-Decoder **dynamic feature fusion models** for high-flow forecasting using ERA5-Land climatic data and river flow measurement data (The study area is Severn, UK).
 
 ## Project structure
 ```
@@ -55,7 +55,7 @@ The remaining Python dependencies are listed in `Models/requirements.txt`.
 
 ## Running models
 
-Docker is optional. To run a model without Docker, skip steps 3–4 and install the dependencies instead:
+Docker is optional. To run a model without Docker, skip steps 3–4 and install the dependencies (from `Models/` folder) instead:
 ```bash
 pip install -r requirements.txt
 ```
